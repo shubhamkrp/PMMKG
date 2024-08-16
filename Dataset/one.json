@@ -1,0 +1,602 @@
+[
+  {
+    "short_codes": "41401,9971,4111,42731,4019,2720",
+    "Symptoms": [
+      "exertional chest pain"
+    ]
+  },
+  {
+    "short_codes": "80508,5070,99739,5180,2939,2513,E8130,8820,4019,73390",
+    "Symptoms": [
+      "neck pain"
+    ]
+  },
+  {
+    "short_codes": "1541,99811,V6441,45829,25000,2724,4019,41400,V4581,412",
+    "Symptoms": [
+      "rectal cancer"
+    ]
+  },
+  {
+    "short_codes": "44101,42833,4233,5601,5990,4241,7885,2875,32723,4280,2720,27800,5303,43883,43813",
+    "Symptoms": [
+      "chest pain radiating to back"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,4019,2724,45829,V4582,V1582",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "74729,99749,5601,4019,7140,2749,V1582,4928,34590,E8788",
+    "Symptoms": [
+      "shortness of breath with exertion"
+    ]
+  },
+  {
+    "short_codes": "41401,42823,4241,4412,40310,5859,4280,311,71597,49390,53081,53390,V1582,78009",
+    "Symptoms": [
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "431,22809,33818,V1209,7804,4470,7813,7231",
+    "Symptoms": [
+      "equilibrium problems"
+    ]
+  },
+  {
+    "short_codes": "7213,99649,72210,4019,45829,7265,2724,E8781",
+    "Symptoms": [
+      "back and leg pain"
+    ]
+  },
+  {
+    "short_codes": "4412,4231,5119,4168,42613,4019,2724,42731,V707,V5861,V4573,496,4549,45829",
+    "Symptoms": [
+      "asymptomatic"
+    ]
+  },
+  {
+    "short_codes": "4240,5990,4280,42731,04102,2767,4549,42781,4019,2720,V4501,V5861",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "41071,2851,41401,V4582",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "4241,9992,4412,45182,V707,42731,4280,78791,4019,2720,79092,2689,V1251,V153,V1046,V5861,V1301,V4577,E8798",
+    "Symptoms": [
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "41401,5121,4111,V4582,412,25000,2724,4019,E8782",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,42731,49320,4019,25061,3572",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "4412,4241,4019,2720,3510,71598",
+    "Symptoms": [
+      "dizziness"
+    ]
+  },
+  {
+    "short_codes": "4241,5859,34830,41401,4139,2724,60000,53081,2749,E9352,40390",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41071,9971,41401,E9342,42731,E8782,2724,4019,4240,412",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41410,42822,4280,2859,41401,45829,40390,5859,496,27801,412,2724,27800,V1254,V1582",
+    "Symptoms": [
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "42731,59970,E8788,E8497,4241,42833,99811,4280,41401,73300,4019,3659",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,V4582,4400,43310,412,7455,44020,4019,25000,V4975,V4972,V1582,V173,2720,7220,53081",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "4241,9982,9971,42731,4019,53081,56210",
+    "Symptoms": [
+      "asymptomatic"
+    ]
+  },
+  {
+    "short_codes": "44023,2800,99889,4280,496,70715,25060,3572",
+    "Symptoms": [
+      "nonhealing left first toe ulceration."
+    ]
+  },
+  {
+    "short_codes": "44101,4412,2859,185,25000,V443",
+    "Symptoms": [
+      "back pain"
+    ]
+  },
+  {
+    "short_codes": "99644,5715,2875,5990,2851,E8859,4019,V4365,25000,78057,33399,7291,5569,5723",
+    "Symptoms": [
+      "pain in rt knee"
+    ]
+  },
+  {
+    "short_codes": "2127,4019,3051",
+    "Symptoms": [
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "41401,V4582,V173,412,V1582",
+    "Symptoms": [
+      "asymptomatic"
+    ]
+  },
+  {
+    "short_codes": "41071,41401,4019,25000",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4019,2724,25000,60000",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,5180,412,V4582,53081,5533,6931,V1502,4400,2859,2724,27800,V173",
+    "Symptoms": [
+      "chest pressure"
+    ]
+  },
+  {
+    "short_codes": "4240,42823,5770,4254,4271,5750,4242,4280,4019,42731,V5861,E8788",
+    "Symptoms": [
+      "asymptomatic"
+    ]
+  },
+  {
+    "short_codes": "94532,44024,2851,40391,4280,9975,5849,42731,94800",
+    "Symptoms": [
+      "third degree burn of the posterior right achilles area and calf"
+    ]
+  },
+  {
+    "short_codes": "41401,49390,2720,4019,78057,5533,V1582",
+    "Symptoms": [
+      "intermittent chest pain"
+    ]
+  },
+  {
+    "short_codes": "4210,42831,42971,5119,4241,4280,4011,2859",
+    "Symptoms": [
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "3963,3970",
+    "Symptoms": [
+      "dyspnea"
+    ]
+  },
+  {
+    "short_codes": "41091,41401,4019,2720,32723,2713,4386",
+    "Symptoms": [
+      "nausea"
+    ]
+  },
+  {
+    "short_codes": "41401,4019",
+    "Symptoms": [
+      "dyspnea on exertion (doe)"
+    ]
+  },
+  {
+    "short_codes": "7464,41401,4019,53081,71590,V1582",
+    "Symptoms": [
+      "decreased exercise tolerance"
+    ]
+  },
+  {
+    "short_codes": "99602,E8781,4241,4240,41401,42731,2724,4019,60000,2449,43310,V5861,9100,E8859,V4582",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "41041,41412,2851,5180,9982,41401,4142,3051,4240,4019,2724,45829,E9348,E8782",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "3480,49390,32723",
+    "Symptoms": [
+      "diplopia"
+    ]
+  },
+  {
+    "short_codes": "41091,41401,4019,2724,25000,V1251,45829",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "5180,99652,25000,4019,3051,41400,V1082",
+    "Symptoms": [
+      "scalp wound"
+    ]
+  },
+  {
+    "short_codes": "41071,5856,25013,42821,40391,5849,4280,496,28521,60000",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,9971,42731,4019,2859,2724,412,V4582,79431",
+    "Symptoms": [
+      "worsening chest pain"
+    ]
+  },
+  {
+    "short_codes": "4241,41401,4019,30501,V1046",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "4412,42822,4254,4280,42731,496,3569",
+    "Symptoms": [
+      "back pain"
+    ]
+  },
+  {
+    "short_codes": "41401,25000,2720",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,9971,4139,42731,4019,2720",
+    "Symptoms": [
+      "chest burning"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,496,2875,42731,23771,3051,2859",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4139",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "4373,4019,2449,59651,49390,V1052",
+    "Symptoms": [
+      "elective admit for coiling of pcomm aneurysm"
+    ]
+  },
+  {
+    "short_codes": "4241,2761,41401,4019,42731,V5861,78009",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "8052,5180,E8210",
+    "Symptoms": [
+      "back pain"
+    ]
+  },
+  {
+    "short_codes": "41401,9971,42731,4019,2720,25000,53081,7243",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "41401,25000,2720,4019",
+    "Symptoms": [
+      "inferior and lateral ischemia"
+    ]
+  },
+  {
+    "short_codes": "7464,36233,4019,7850",
+    "Symptoms": [
+      "lightheadness with heavy exertion"
+    ]
+  },
+  {
+    "short_codes": "41401,41041,42820,4280,42731",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41071,9971,99859,2851,41401,4019,2809,25000,2724,72989,43889,V1588,36816,42731,E8782,45829,3310,29410",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41071,25002,41401,412,2724,4019,V1254,V173,V4582,V5867",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "1748,220,5680,2851",
+    "Symptoms": [
+      "pain"
+    ]
+  },
+  {
+    "short_codes": "4243,7464,V422,4178,4168,41401",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "41401,41071,4241,42731,25002,4019,2720,V1046,V1582,V173,V5861",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "4417,99674,41401,4019,3669,42611,E8781,E8497",
+    "Symptoms": [
+      "back pain"
+    ]
+  },
+  {
+    "short_codes": "4241,42832,9971,5990,0413,04185,41401,4280,42731,42789,7102,73300,2720,V1251",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "4241,42822,4280,6826,2851,41401,2724,79092,3659,E8782,E8781",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,25050,36201,2449,53081,43310,32723,7242,V4582,V4585,V5867",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "3480,34690",
+    "Symptoms": [
+      "headaches"
+    ]
+  },
+  {
+    "short_codes": "2254,99812,2869,6238,E9342,27651,2449,4019",
+    "Symptoms": [
+      "brain mass"
+    ]
+  },
+  {
+    "short_codes": "1748,1963,V103",
+    "Symptoms": [
+      "palpable mass"
+    ]
+  },
+  {
+    "short_codes": "1550,5715,99889,78039,4019,25000,5771,5723,E8788,E8497",
+    "Symptoms": [
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "41401,4240,42731,3970,5859,40390,2720,45829,311,V1046,V5861",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4111,5990,5569,5121,04189,496,2724,2859,53081,3051,E8782,2449,72742,78052,6184,71590",
+    "Symptoms": [
+      "intermittent worsening chest burning"
+    ]
+  },
+  {
+    "short_codes": "4240",
+    "Symptoms": [
+      "doe and fatigue"
+    ]
+  },
+  {
+    "short_codes": "4241,4414,4019",
+    "Symptoms": [
+      "asymptomatic"
+    ]
+  },
+  {
+    "short_codes": "4373,V8542,27801,V4586,32723,V1041,V145,V148,V1508,V1504,V1505",
+    "Symptoms": [
+      "l mca aneurysm"
+    ]
+  },
+  {
+    "short_codes": "4412,2851,42989,42731,3963,3970,4019,2724,56210,4168,27669,42613",
+    "Symptoms": [
+      "exertional dyspnea with stairs"
+    ]
+  },
+  {
+    "short_codes": "41401,2761,9992,496,25000,4019,2724,3051,45184,E8798",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,4019,53081,2724,71690",
+    "Symptoms": [
+      "chest and jaw pain"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,V4582,4019,2720,53081,34690,72291",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "56081,5070,2536,5990,04104,3439,34590,319,7850,53081,V440,2449,V441",
+    "Symptoms": [
+      "abdominal distention"
+    ]
+  },
+  {
+    "short_codes": "41401,4139,5939,4019,2720,4439,60000,412,V1279",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "3942,39891,42731,496,4019,V1259",
+    "Symptoms": [
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "4241,5180,496,27652,4412,2724,42731,4019,V1582,2859",
+    "Symptoms": [
+      "fatigue"
+    ]
+  },
+  {
+    "short_codes": "4417,44322,3361,5845,486,44481,99674,72973,72972,72888,5180,79001,2763,42732,45386,4422,4019,E8782,99889,2800,27541",
+    "Symptoms": [
+      "asymptomatic"
+    ]
+  },
+  {
+    "short_codes": "41401,99812,2875,41402,4111,25000,2720,4019",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41401,42731,2689,25000,2859,49390,4019,2724,2720",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "4241,9971,42731,4019,2724,V4365,53081,E8784",
+    "Symptoms": [
+      "pre-syncope"
+    ]
+  },
+  {
+    "short_codes": "73739,2851,4019,2720,2749,53081,2449",
+    "Symptoms": [
+      "back pain"
+    ]
+  },
+  {
+    "short_codes": "4241,7464,4412,4019",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "41401,4019,78039,71590",
+    "Symptoms": [
+      "dizziness"
+    ]
+  },
+  {
+    "short_codes": "4241,4280,4019",
+    "Symptoms": [
+      "dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "41071,9971,41401,2724,3051,42789,E8782,25000",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "41071,5990,79001,41401,42731,4019,53081,2749,71590,V5861",
+    "Symptoms": [
+      "chest pain"
+    ]
+  },
+  {
+    "short_codes": "2330,2851",
+    "Symptoms": [
+      "extensive microcalcification's"
+    ]
+  },
+  {
+    "short_codes": "4240,7455,60000,34690,42731,4019",
+    "Symptoms": [
+      "mild dyspnea on exertion"
+    ]
+  },
+  {
+    "short_codes": "4280,56949,E8792,2800,2724,25000,V5867,3659,56944,5849,42823,5693,V1006,V8741,V153,40390,5859,42731",
+    "Symptoms": [
+      "loose bloody bowel movements"
+    ]
+  },
+  {
+    "short_codes": "4414,5990,496,4019,27801,41400,V4581",
+    "Symptoms": [
+      "enlarging 5.6 cm aneurysm of the infrarenal aorta"
+    ]
+  },
+  {
+    "short_codes": "41401,42822,4280,4111,4271,496,42731,4240,3970,25000,4439,2720,4019",
+    "Symptoms": [
+      "shortness of breath"
+    ]
+  },
+  {
+    "short_codes": "4241,42833,7464,41401,42731,4280,34590,2724,V4582",
+    "Symptoms": [
+      "dyspnea"
+    ]
+  }
+]
