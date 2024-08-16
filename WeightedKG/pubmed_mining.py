@@ -66,7 +66,6 @@ import pandas as pd
 symp_file="mesh_symptoms.csv"
 symp_df=pd.read_csv(symp_file, delimiter=';')
 symp_term=symp_df["Name"]
-symp_term=symp_term.loc[281:300]
 print(symp_term.head())
 
 # term = "Prosopagnosia"
